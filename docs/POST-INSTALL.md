@@ -88,6 +88,7 @@ Machines that require this are those with AMD Metal dGPUs:
 * 2015 15" MacBook Pro with a dGPU (MacBookPro11,5)
 
 :::
+BUT HOW IS THIS DETECTED BY OCLP? I HAVE DOWNLOADED THE KDK PACKAGE OPENED IT AND PLACED IT IN /APPLICATIONS BUT STILL ONLY GET "NETWORK CONNECTION REQUIRED".🤦🏼‍♂️
 
 Below entries represent GPUs no longer natively supported, ie. requiring root volume patching with OpenCore Legacy Patcher:
 
